@@ -154,10 +154,9 @@ Comparación entre:
 * AGEB con agricultura de subsistencia (control).
 
 Modelo base:
-
-[
+$$
 Y_{it} = \alpha + \beta(T_i \times Post_t) + \gamma X_{it} + \epsilon_{it}
-]
+$$
 
 ### 5.2 Modelos espaciales
 
